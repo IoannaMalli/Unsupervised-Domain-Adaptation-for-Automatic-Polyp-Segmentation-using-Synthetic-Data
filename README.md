@@ -6,6 +6,13 @@ Colorectal cancer is a significant health concern that can often be prevented th
 
 ## Setup
 
-\dot The Kvasir-SEG dataset is publically available and may be downloaded from here: 
+* The Kvasir-SEG dataset is publically available and may be downloaded from here: 
       https://datasets.simula.no/kvasir-seg/
+
+* Synth Colon may be downloaded here: https://enric1994.github.io/synth-colon/
+  Please downloade the full size (41.2 GB) folder to obtain the realistic images.
+
+* The SegFormer pretrained weights can be obtained [here](https://connecthkuhk-my.sharepoint.com/personal/xieenze_connect_hku_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxieenze%5Fconnect%5Fhku%5Fhk%2FDocuments%2Fsegformer%2Fpretrained%5Fmodels&ga=1). 
+
+  
 
